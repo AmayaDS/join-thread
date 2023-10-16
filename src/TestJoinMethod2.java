@@ -21,9 +21,5 @@ class TestJoinMethod2 extends Thread {
             System.out.println(e);
         }
 
-        t2.start();
-        t3.start();
-    }
-}
-
+       
         
